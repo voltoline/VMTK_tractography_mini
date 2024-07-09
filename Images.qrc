@@ -1,0 +1,81 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="axial">Images/axial.png</file>
+        <file alias="checkbox">Images/checkbox.png</file>
+        <file alias="coronal">Images/coronal.png</file>
+        <file alias="down_arrow">Images/down_arrow.png</file>
+        <file alias="handle">Images/handle.png</file>
+        <file alias="sagital">Images/sagital.png</file>
+        <file alias="slide_down">Images/slide_down.png</file>
+        <file alias="slide_left">Images/slide_left.png</file>
+        <file>Images/slide_left_orig.png</file>
+        <file alias="splitter_h">Images/splitter_h.png</file>
+        <file alias="splitter_v">Images/splitter_v.png</file>
+        <file alias="volume">Images/volume.png</file>
+        <file alias="folder_yellow">Images/Folder-icon.png</file>
+        <file alias="folder_red">Images/folderRed.png</file>
+        <file alias="print">Images/printScreen.png</file>
+        <file alias="camera">Images/camera.png</file>
+        <file alias="axial_escrito">Images/axialEscrito.png</file>
+        <file alias="coronal_escrito">Images/corEscrito.png</file>
+        <file alias="sagital_escrito">Images/sagEscrito.png</file>
+        <file alias="volume_escrito">Images/volumeEscrito.png</file>
+        <file alias="four">Images/four60.png</file>
+        <file alias="one">Images/one.png</file>
+        <file alias="two">Images/two178.png</file>
+        <file alias="vertical6">Images/vertical8.png</file>
+        <file alias="mouse">Images/mouse.png</file>
+        <file alias="mouse_white">Images/mouse_white.png</file>
+        <file alias="folder">Images/folder.png</file>
+        <file>Images/lasttrack1.png</file>
+        <file>Images/forward.png</file>
+        <file>Images/headIcon.png</file>
+        <file>Images/headIcon.svg</file>
+        <file>Images/pause52.png</file>
+        <file>Images/play128.png</file>
+        <file>Images/rewind7.png</file>
+        <file>Images/skip3.png</file>
+        <file>Images/stop4.png</file>
+        <file alias="slide_down1">Images/slide_down1.png</file>
+        <file alias="slide_right">Images/slide_right.png</file>
+        <file alias="axial_vetorial">Images/axialVetorial.png</file>
+        <file alias="coronal_vetorial">Images/coronalVetorial.png</file>
+        <file alias="sagital_vetorial">Images/sagitalVetorial.png</file>
+        <file alias="volume_vetorial">Images/volumeVetorial.png</file>
+        <file alias="save">Images/Save.png</file>
+        <file alias="mouse_rotation">Images/rotation.png</file>
+        <file alias="rotation2D">Images/rotation2D.png</file>
+        <file alias="zoom">Images/zoom.png</file>
+        <file alias="zoom_minus">Images/zoom_minus.png</file>
+        <file alias="zoom_plus">Images/zoom_plus.png</file>
+        <file alias="move">Images/move.png</file>
+        <file alias="move_d">Images/move_d.png</file>
+        <file alias="move_l">Images/move_l.png</file>
+        <file alias="move_r">Images/move_r.png</file>
+        <file alias="move_u">Images/move_u.png</file>
+        <file alias="file1">Images/file_1.png</file>
+        <file alias="file1i">Images/file_1i.png</file>
+        <file alias="file2">Images/file_2.png</file>
+        <file alias="folder_files">Images/folder_files.png</file>
+        <file alias="reset1">Images/refresh_1.png</file>
+        <file alias="reset2">Images/refresh_2.png</file>
+        <file alias="folder_files_1">Images/folder_files_1.png</file>
+        <file alias="text_bmp">Images/text.bmp</file>
+        <file alias="vmtk_logo">Images/VMTK-logo.png</file>
+        <file alias="cc_base">Images/cc_base.jpg</file>
+        <file alias="cc_body">Images/cc_body.jpg</file>
+        <file alias="cc_top">Images/cc_top.jpg</file>
+        <file alias="vmtk_mac_icon_icns">Images/vmtk_mac_icon1.icns</file>
+        <file alias="up_arrow">Images/up_arrow.png</file>
+        <file alias="close">Images/close_sf.png</file>
+        <file alias="close2">Images/close_sf_white.png</file>
+        <file alias="down_arrow2">Images/down_arrow2.png</file>
+        <file alias="arrow_down">Images/arrow_down.png</file>
+        <file alias="arrow_up">Images/arrow_up.png</file>
+        <file alias="close_gray">Images/close_sf_gray.png</file>
+        <file alias="check">Images/check.svg</file>
+        <file alias="sorted_files">Images/sorted_files.png</file>
+        <file>Images/tools/settings.png</file>
+        <file>Images/tools/settings1.png</file>
+    </qresource>
+</RCC>

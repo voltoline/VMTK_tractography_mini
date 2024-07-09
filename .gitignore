@@ -1,0 +1,11 @@
+*.orig
+build/
+ui/ui_*
+ui/*.orig
+ui/.gitignore
+/VMTK-DTI_2.0.pro.orig
+/VMTK-DTI_2.0.pro.user
+/ui/components/*.orig
+Makefile
+*.o
+ui_*

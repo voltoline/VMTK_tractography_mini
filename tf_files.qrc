@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="dicom_rmi">usr_data/tf_palettes/dicom_rmi_1.tff</file>
+        <file alias="dicom_pet">usr_data/tf_palettes/dicom_pet.tff</file>
+        <file alias="dicom_pet_20_step">usr_data/tf_palettes/dicom_pet_20step.tff</file>
+        <file alias="dicom_pet_hot_meta_blue">usr_data/tf_palettes/dicom_pet_hot_metal_blue.tff</file>
+        <file alias="dicom_rmi_initial">usr_data/tf_palettes/dicom_rmi_initial.tff</file>
+        <file alias="dicom_rmi_new">usr_data/tf_palettes/dicom_rmi_new.tff</file>
+    </qresource>
+</RCC>

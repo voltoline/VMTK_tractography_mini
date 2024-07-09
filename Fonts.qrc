@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Fonts/Ubuntu-B.ttf</file>
+        <file>Fonts/Ubuntu-BI.ttf</file>
+        <file>Fonts/Ubuntu-C.ttf</file>
+        <file>Fonts/Ubuntu-L.ttf</file>
+        <file>Fonts/Ubuntu-LI.ttf</file>
+        <file>Fonts/Ubuntu-M.ttf</file>
+        <file>Fonts/Ubuntu-MI.ttf</file>
+        <file>Fonts/UbuntuMono-B.ttf</file>
+        <file>Fonts/UbuntuMono-BI.ttf</file>
+        <file>Fonts/UbuntuMono-R.ttf</file>
+        <file>Fonts/UbuntuMono-RI.ttf</file>
+        <file alias="font_main">Fonts/Ubuntu-R.ttf</file>
+        <file>Fonts/Ubuntu-RI.ttf</file>
+    </qresource>
+</RCC>

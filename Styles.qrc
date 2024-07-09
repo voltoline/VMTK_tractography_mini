@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="original">Styles/original_style.qss</file>
+        <file alias="light_blue">Styles/light_blue.qss</file>
+        <file alias="light_blue_tab_widget">Styles/light_blue_tab_widget.qss</file>
+        <file alias="original_tab_widget">Styles/original_style_tab_widget.qss</file>
+        <file alias="original_2">Styles/original_style_2.qss</file>
+    </qresource>
+</RCC>

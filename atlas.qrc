@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="MNI_Atlas">modules/visualization/submodules/atlas_labeling/model/MNI_Atlas/MNI152_T1_1mm.nii</file>
+        <file alias="Talairach_Atlas">modules/visualization/submodules/atlas_labeling/model/Talairach/Talairach-labels-1mm.nii</file>
+        <file alias="Labels">modules/visualization/submodules/atlas_labeling/model/Talairach/labels.txt</file>
+    </qresource>
+</RCC>
